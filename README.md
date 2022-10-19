@@ -1,4 +1,4 @@
-#<p style="font-size:25px" align="right">
+<p style="font-size:25px" align="right">
 <strong>Join ERN VENTURES</strong></p>
 <p style="font-size:14px" align="right">
 <a href="https://ernventures.com/" target="_blank">Visit our WEBSITE <img src="" width="30"/></a>
