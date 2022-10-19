@@ -1,5 +1,5 @@
 <p style="font-size:14px" align="right">
-# **Join ERN VENTURES (bold)**
+**Join ERN VENTURES**
 <p style="font-size:14px" align="right">
 <a href="https://ernventures.com/" target="_blank">Visit our WEBSITE <img src="" width="30"/></a>
 <p style="font-size:14px" align="right">
