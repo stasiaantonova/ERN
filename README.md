@@ -1,5 +1,5 @@
 <p style="font-size:25px" align="right">
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Join_ERN_VENTURES_0"></a><strong>Join ERN VENTURES</strong></h1>
+<a class="code-line" data-line-start=0 data-line-end=1 ><a id="Join_ERN_VENTURES_0"></a><strong>Join ERN VENTURES</strong></a>
 <p style="font-size:14px" align="right">
 <a href="https://ernventures.com/" target="_blank">Visit our WEBSITE <img src="" width="30"/></a>
 <p style="font-size:14px" align="right">
