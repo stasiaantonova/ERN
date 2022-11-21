@@ -8,14 +8,14 @@
   "coin_type": "118",
   "min_tx_fee": "5000",
   "addr_prefix": "empower",
-  "logo": "/logos/empower.png",
+  "logo": "https://raw.githubusercontent.com/stasiaantonova/explorer/master/public/logos/empower.png",
   "assets": [
     {
       "base": "umpwr",
       "symbol": "MPWR",
       "exponent": "6",
       "coingecko_id": "altruistic-1",
-      "logo": "/logos/empowers.png"
+      "logo": "https://raw.githubusercontent.com/stasiaantonova/explorer/master/public/logos/empower.png"
     }
   ]
 }
