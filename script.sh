@@ -1,5 +1,8 @@
 #!/bin/bash
-read -p "Node_name: "
+read -p "Enter WALLET name:" WALLET
+echo 'export WALLET='$WALLET
+read -p "Enter your MONIKER :" MONIKER
+echo 'export MONIKER='$MONIKER
 read -p "IP_server: "
 read -p "TOKEN_telegrambot: "
 
