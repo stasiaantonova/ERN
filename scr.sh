@@ -166,6 +166,7 @@ sudo systemctl daemon-reload && sudo systemctl enable alertmanager && sudo syste
 sudo systemctl restart prometheus.service
 sudo systemctl restart alertmanager
 
+cd
 sudo apt install curl
 curl https://sh.rustup.rs -sSf | sh -s -- -y
 source $HOME/.cargo/env
