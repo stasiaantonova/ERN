@@ -138,7 +138,7 @@ route:
 receivers:
   - name: 'telepush'
     webhook_configs:
-      - url: 'https://telepush.dev/api/inlets/alertmanager/"$TOKEN"'
+      - url: 'https://telepush.dev/api/inlets/alertmanager/$TOKEN'
 inhibit_rules:
   - source_match:
       severity: 'critical'
