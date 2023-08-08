@@ -51,7 +51,7 @@ sudo chown -R prometheus:prometheus /var/lib/prometheus
 
 rm -rf ./prometheus*
 
-sudo tee ~/etc/prometheus/prometheus.yml > /dev/null <<EOF
+sudo tee /etc/prometheus/prometheus.yml > /dev/null <<EOF
 global:
   scrape_interval: 15s
   evaluation_interval: 15s
