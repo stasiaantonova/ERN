@@ -1,11 +1,10 @@
 #!/bin/bash
-read -p "Enter WALLET name:" WALLET
-echo 'export WALLET='$WALLET
-read -p "Enter your MONIKER :" MONIKER
-echo 'export MONIKER='$MONIKER
-
-read -p "IP_server: "
-read -p "TOKEN_telegrambot: "
+read -p "Enter NODE name:" NODE
+echo 'export NODE='$NODE
+read -p "Enter IP server :" IP
+echo 'export IP='$IP
+read -p "TOKEN telegrambot:" TOKEN
+echo 'export TOKEN='$TOKEN
 
 cd $HOME && \
 wget https://github.com/prometheus/node_exporter/releases/download/v1.2.0/node_exporter-1.2.0.linux-amd64.tar.gz && \
